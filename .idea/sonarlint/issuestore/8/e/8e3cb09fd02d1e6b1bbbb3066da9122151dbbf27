@@ -1,0 +1,11 @@
+
+>
+java:S1604*"(Make this anonymous inner class a lambda(°¯èù
+w
+java:S1450"\Remove the "navController" field and declare it as a local variable in the relevant methods.(¿”Æƒøÿÿÿÿ
+M
+java:S18745"7Remove this use of "setDrawerLayout"; it is deprecated.(¼ëÇ›
+B
+java:S1602:",Remove useless curly braces around statement(ÜïÇ¢
+W
+java:S1117J"ARename "navController" which hides the field declared at line 23.(›ªÖÀ
